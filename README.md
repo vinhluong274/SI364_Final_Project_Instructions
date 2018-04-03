@@ -2,7 +2,7 @@
 
 **Final project submission deadline: April 20, 2018 at 11:59 pm**
 
-**Total: 4000 points**
+**Total: 3200 points**
 
 Late assignment policy does NOT apply; late projects are not accepted. If you have a concern about deadlines and dates please let Jackie and an advisor in OSA know immediately.
 
@@ -49,7 +49,7 @@ Reading code you have been given already, written already, and looking at exampl
 Visual design will not earn you points for this assignment though you may certainly include it if you want -- do *not* prioritize it over the functionality, which is what this final project assignment is about.
 
 
-## Requirements to complete for 3600 points (90%) -- an awesome, solid app
+## Requirements to complete for 2880 points (90%) -- an awesome, solid app
 
 *(I recommend treating this as a checklist and checking things off as you get them done!)*
 
@@ -132,6 +132,8 @@ Visual design will not earn you points for this assignment though you may certai
 
 
 ## Additional Requirements for additional points -- an app with extra functionality!
+
+**Note:** Maximum possible % is 102%.
 
 - [ ] (100 points) Include a use of an AJAX request in your application that accesses and displays useful (for use of your application) data.
 - [ ]  (100 points) Create, run, and commit at least one migration.
