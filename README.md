@@ -41,7 +41,7 @@ You may *not* earn any points for making a request to the iTunes API since we ha
 
 You may use any code that is exactly the same as code used in lecture or section or a previous HW.
 
-You will NOT receive points for any code that you submitted for the midterm. **Keep this in mind if you plan to use a similar theme in this project as you used on the midterm.**
+You will NOT receive points for any code that you submitted for the midterm. **Keep this in mind if you plan to use a similar theme in this project as you used on the midterm.** Small amendments to it, additions, etc, if it was your own original work on the midterm, are fine and will count.
 
 *It is not enough to decide that the app you want to write does not have "that type of feature required" -- the final project assignment requires fulfilling all of these things for the credit that goes with them, so make your plan accordingly.*
 
