@@ -108,9 +108,9 @@ Visual design will not earn you points for this assignment though you may certai
 
   - [ ] At least one Jinja template for loop and at least two Jinja template conditionals should occur amongst the templates.
 
-- [ ] At least one request to a REST API that is based on data submitted in a WTForm.
+- [ ] At least one request to a REST API that is based on data submitted in a WTForm OR data accessed in another way online (e.g. scraping with BeautifulSoup that *does* accord with other involved sites' Terms of Service, etc).
 
-  - [ ] Your application should use data from a REST API such that the application processes the data in some way and saves information that came from an API request to the database (in some way).
+  - [ ] Your application should use data from a REST API or other source such that the application processes the data in some way and saves some information that came from the source *to the database* (in some way).
 
 - [ ] At least one WTForm that sends data with a `GET` request to a *new* page.
 
