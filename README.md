@@ -55,7 +55,7 @@ Visual design will not earn you points for this assignment though you may certai
 
 ### **Documentation README Requirements**
 
-- [ ] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. (You bold things in Markdown by using two asterisks, like this: `**This text would be bold** and this text would not be`)
+- [x] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. (You bold things in Markdown by using two asterisks, like this: `**This text would be bold** and this text would not be`)
 
 - [ ] The `README.md` file should use markdown formatting and be clear / easy to read.
 
